@@ -44,6 +44,8 @@
   place-items: center;
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
+  font-size: 2.5rem;
+  text-transform: uppercase;
 }
 
 .container .card .card-inner .front {
